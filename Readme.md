@@ -18,6 +18,9 @@ Airborne is divided into four services:
 - System shoud be able to make sure that we dont change the prices whe the booking payment is going on.
 - System should be able to auto scale itself for atleast 3x more traffic.
 
+## System Diagram
+![Screenshot 2023-08-30 152043](https://github.com/abhay2002-pro/Airborne/assets/76939279/49e63db7-6d46-4cf8-b75e-1628c317f1e5)
+
 ### Folder structure followed in every service
 `src` -> Inside the src folder all the actual source code regarding the service resides.
 
